@@ -14,7 +14,7 @@ Before we dive into the details, make sure you have an Azure account. If you don
 **Creating a VM and Log Analytics Workspace in Azure Sentinel:**
 
 We start by setting up a new Virtual Machine (VM) in Azure, which will function as our “honeypot.”
-we’ll choose an operating system that is frequently targeted; Windows servers are a popular option. Next, we’ll configure the networking settings for our VM. It’s essential for a honeypot to be reachable by potential attackers, so we’ll adjust the network security group to permit inbound Remote Desktop Protocol (RDP) connections. After configuring the networking, we’ll deploy the VM. Once Azure finishes the deployment, our honeypot will be operational and poised to attract interest from threat actors online.
+we’ll choose an operating system that is frequently targeted i.e Windows. Next, we’ll configure the networking settings for our VM. It’s essential for a honeypot to be reachable by potential attackers, so we’ll adjust the network security group to permit inbound Remote Desktop Protocol (RDP) connections. After configuring the networking, we’ll deploy the VM. Once Azure finishes the deployment, our honeypot will be operational and poised to attract interest from threat actors online.
 
 <img width="960" alt="Creating VM - Basic" src="https://github.com/user-attachments/assets/ccfee691-38a0-4f31-acef-a772564ff2d5">
 
