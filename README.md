@@ -1,6 +1,6 @@
 ***Mapping failed logins in Azure Sentinel using IP Geolocation:***
 
-Cyber attacks leveraging Remote Desktop Protocol (RDP) are more common. In this blog, we'll discuss about this by setting up a honeypot virtual machine (VM) and utilizing Azure Sentinel with third-party APIs, we can effectively track RDP attack attempts from around the globe.
+Cyber attacks leveraging Remote Desktop Protocol (RDP) are more common. In this blog, we'll discuss about this by setting up a honeypot virtual machine (VM) and utilizing Azure Sentinel with third-party APIs, we can effectively track RDP attack attempts from around the globe. This project is based on the work of Josh Madakor, whose insights were invaluable in guiding this setup.
 
 **Introduction:**
 
