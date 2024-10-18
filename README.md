@@ -53,7 +53,7 @@ Next, we head to Azure Sentinel to create a new workbook for our threat map. Uti
 <img width="747" alt="Map" src="https://github.com/user-attachments/assets/13f2ee8d-29d7-4c8a-b2bd-7d771e961965">
 
 
-If we wait for few more hours, we can cature more data:
+If we wait for few more hours, so that we can capture more data: Josh's Map
 
 <img width="518" alt="Sample Map Josh" src="https://github.com/user-attachments/assets/95f3ef2e-dee0-4cec-a4b7-997696a6bbe9">
 
